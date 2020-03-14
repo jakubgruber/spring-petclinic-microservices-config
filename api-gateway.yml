@@ -26,3 +26,6 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://discovery-server:8761/eureka/
+
+custom:
+  message: hello from cloud config - Jakub Gruber
