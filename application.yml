@@ -59,4 +59,4 @@ spring:
     url: jdbc:mysql://database-service:3306/petclinic?useSSL=false
     username: root
     password: petclinic
-    initialization-mode: ALWAYS
+    initialization-mode: NEVER
